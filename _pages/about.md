@@ -40,7 +40,7 @@ How to edit GitHub repository
 adhi example. 
 
 Example: editing a markdown file for a talk
-!https://lh5.googleusercontent.com/5g4kkN_l8S-E0xgEA3SofcT5AJB7qMzDQ99iwHA0IjOyQCF27pofj8MyFRaKX0DurrupuMjn5pHi9hhY90HqqNpzMfU2E3ZxcaCpl0jr4WPQ7nPBQ8BSca30jOrgH6728Q=w1280
+![Editing a markdown file for a talk](/images/editing-talk.png)
 
 ![Visitors](https://visitor-badge.glitch.me/badge?page_id=SatriaAdhiPradana)
 
