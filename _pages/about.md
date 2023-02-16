@@ -9,6 +9,7 @@ redirect_from:
 ---
 
 ![Visitors](https://visitor-badge.glitch.me/badge?page_id=SatriaAdhiPradana)
+
 I am a Freelancer Mastering the knowledge of Technical Project Management, Graphic Design, Web Development, UI Design, Search Engine Optimization (SEO). Proficient in implementing innovative online system management practices and procedures to improve efficiency.“
 
 He is ....
