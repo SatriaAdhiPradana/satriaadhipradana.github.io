@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Satria Adhi Pradana / UIUX Designer"
+title                    : "Satria Adhi Pradana Profile"
 title_separator          : "M.P.A"
 name                     : &name "Satria Adhi Pradana"
 description              : &description "UIUX Designer & Technical Project Manager"
@@ -84,36 +84,36 @@ author:
   avatar           : "profile.png"
   bio              : "i'm Newbie"
   location         : "Indonesia"
-  employer         :
+  employer         : 
   pubmed           : "https://github.com/SatriaAdhiPradana"
-  googlescholar    : "https://github.com/SatriaAdhiPradana"
+  googlescholar    : "https://scholar.google.co.id/citations?user=xh5ykx4AAAAJ&hl=en"
   email            : satriaadhipradana0@gmail.com
   researchgate     :  # example: "https://github.com/SatriaAdhiPradana"
   uri              :
   bitbucket        :
   codepen          :
-  dribbble         :
+  dribbble         : 
   flickr           :
   facebook         :
   foursquare       :
-  github           : "SatriaAdhiPradana"
+  github           : "https://github.com/SatriaAdhiPradana/"
   google_plus      :
   keybase          :
   instagram        : "satria_adhi_pradana"
   impactstory      : #"https://github.com/SatriaAdhiPradana"
   lastfm           :
-  linkedin         : "satria_adhi_pradana"
+  linkedin         : "https://www.linkedin.com/in/satriaadhipradana"
   orcid            : "https://github.com/SatriaAdhiPradana"
   pinterest        :
-  soundcloud       : "satria adhi pradana"
-  stackoverflow    : #https://github.com/SatriaAdhiPradana
+  soundcloud       : "https://soundcloud.com/satriaadhipradana"
+  stackoverflow    : "https://github.com/SatriaAdhiPradana"
   steam            :
   tumblr           :
-  twitter          : "AdhiSquarePants"
+  twitter          : "https://mobile.twitter.com/AdhiSquarePants"
   vine             :
   weibo            :
   xing             :
-  youtube          : "satria adhi pradana"
+  youtube          : "https://www.youtube.com/c/satriaadhipradana"
   wikipedia        :
 
 
