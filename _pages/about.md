@@ -42,6 +42,8 @@ adhi example.
 Example: editing a markdown file for a talk
 ![Editing a markdown file for a talk](/images/editing-talk.png)
 
+![Visitors](https://visitor-badge.glitch.me/badge?page_id=SatriaAdhiPradana)
+
 For more info About Adhi
 ------
 More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
