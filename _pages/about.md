@@ -8,6 +8,7 @@ redirect_from:
   - /about.html
 ---
 
+![Visitors](https://visitor-badge.glitch.me/badge?page_id=SatriaAdhiPradana)
 I am a Freelancer Mastering the knowledge of Technical Project Management, Graphic Design, Web Development, UI Design, Search Engine Optimization (SEO). Proficient in implementing innovative online system management practices and procedures to improve efficiency.“
 
 He is ....
@@ -42,8 +43,7 @@ adhi example.
 Example: editing a markdown file for a talk
 ![Editing a markdown file for a talk](/images/editing-talk.png)
 
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=SatriaAdhiPradana)
 
 For more info About Adhi
 ------
-More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+More info about Me --.
