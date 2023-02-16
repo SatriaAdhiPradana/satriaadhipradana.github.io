@@ -11,14 +11,14 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* S.A.N. in Bachelor Degree of Public Administration, Lampung University, 2014
+* M.P.A. in Master of Public Administration, Diponegoro University, 2019
+* -
 
 Work experience
 ======
 * Summer 2015: Research Assistant
-  * Github University
+  * Awikwok University
   * Duties included: Tagging issues
   * Supervisor: Professor Git
 
