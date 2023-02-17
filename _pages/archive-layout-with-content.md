@@ -28,9 +28,9 @@ Single line blockquote:
 
 | Entry            | Item   |                                                              |
 | --------         | ------ | ------------------------------------------------------------ |
-| [John Doe](#)    | 2016   | Description of the item in the list                          |
-| [Jane Doe](#)    | 2019   | Description of the item in the list                          |
-| [Doe Doe](#)     | 2022   | Description of the item in the list                          |
+| [Adhi](#)    | 2016   | Description of the item in the list                          |
+| [Adhi Black](#)    | 2019   | Description of the item in the list                          |
+| [Blackie](#)     | 2022   | Description of the item in the list                          |
 
 | Header1 | Header2 | Header3 |
 |:--------|:-------:|--------:|
@@ -100,7 +100,7 @@ Make any link standout more when applying the `.btn` class.
 ### Address Tag
 
 <address>
-  1 Infinite Loop<br /> Cupertino, CA 95014<br /> United States
+  1 Infinite Loop<br /> Kedaton, Bandar Lampung<br /> Indonesia
 </address>
 
 ### Anchor Tag (aka. Link)
