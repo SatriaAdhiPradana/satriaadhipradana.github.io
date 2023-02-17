@@ -1,6 +1,6 @@
 ---
 title: 'Future Blog Post'
-date: 2023-01-01
+date: 2023-02-16
 permalink: /posts/2023/02/im-Satria-Adhi-Pradana/
 tags:
   - Programming
