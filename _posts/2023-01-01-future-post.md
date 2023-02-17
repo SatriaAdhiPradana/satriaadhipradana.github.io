@@ -1,7 +1,7 @@
 ---
 title: 'Future Blog Post'
-date: 2199-01-01
-permalink: /posts/2012/08/blog-post-4/
+date: 2023-01-01
+permalink: /posts/2023/02/im-Satria-Adhi-Pradana/
 tags:
   - Programming
   - category1
