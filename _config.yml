@@ -8,7 +8,7 @@
 # Site Settings
 locale                   : "en-US"
 title                    : "Satria Adhi Pradana Profile"
-title_separator          : "M.P.A"
+title_separator          : "Adhi.Dev"
 name                     : &name "Satria Adhi Pradana"
 description              : &description "UIUX Designer & Technical Project Manager"
 url                      : https://satriaadhipradana.github.io # the base hostname & protocol for your site e.g. "https://github.com/SatriaAdhiPradana"
