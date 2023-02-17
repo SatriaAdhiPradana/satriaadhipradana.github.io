@@ -1,7 +1,7 @@
 ---
-title: "Archive Layout with Content"
+title: "Archive Layout with Adhi Content"
 layout: archive
-permalink: /archive-layout-with-content/
+permalink: /archive-layout-with-adhi-content/
 ---
 
 A variety of common markup showing how the theme styles them.
