@@ -42,9 +42,9 @@ How to edit GitHub repository
 adhi example. 
 
 Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
+![Editing a markdown file](/images/editing-talk.png)
 
 
 For more info About Adhi
 ------
-More info about Me --.
+More info about Me.....
