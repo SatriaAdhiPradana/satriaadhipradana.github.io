@@ -15,7 +15,7 @@ He is ....
 High Enthusiastic Technical Project Management, UI UX Design, Web Development, Cyber Security.
 
 
-Casual Coder
+-
 ![Editing a markdown file](/images/editing-talk.png)
 
 
