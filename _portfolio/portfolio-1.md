@@ -1,6 +1,6 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "UI UX Design"
+excerpt: "Short description of portfolio item number 1<br/><img src='[/images/500x300.png](https://s3-alpha.figma.com/hub/file/2372032570/resized/800x480/cd07ee9e-2717-4bb8-9d23-c7708095acad-cover.png)'>"
 collection: portfolio
 ---
 
