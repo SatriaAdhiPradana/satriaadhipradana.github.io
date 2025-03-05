@@ -12,23 +12,40 @@ redirect_from:
 
 He is ....
 ======
-Newbie Coder deeply engaged in the realms of technology. Satria Adhi Pradana is a seasoned practitioner in Technical Project Management, UI/UX Design, Web Development, and Cyber Security, with a passion for delivering excellence in every aspect of his work.
 
-With a wealth of experience and expertise in various technological domains, Satria Adhi Pradana embodies a unique blend of skills and knowledge essential for navigating the dynamic landscape of modern technology. As an adept Technical Project Manager, he excels in orchestrating complex projects from inception to fruition, ensuring seamless execution and timely delivery.
+**Newbie Coder | Technology Enthusiast | Virtual Assistant**
 
-In the realm of UI/UX Design, Satria Adhi Pradana showcases a keen eye for detail and a user-centric approach. He crafts intuitive and visually captivating designs that not only engage users but also enhance their overall experience. Whether it's creating wireframes, prototypes, or conducting usability testing, Satria's designs resonate with elegance and functionality.
+Meet Satria Adhi Pradana, a dedicated professional immersed in the ever-evolving realms of technology. With extensive experience in **Technical Project Management**, **UI/UX Design**, **Web Development**, **Cyber Security**, and now as a **Virtual Assistant**, Satria is passionate about delivering excellence in every project.
 
-When it comes to Web Development, Satria Adhi Pradana is an architect of digital solutions, adept at turning ideas into robust and scalable web applications. His mastery extends across a spectrum of technologies and frameworks, enabling him to create tailor-made solutions that cater to diverse business needs.
+## Expertise and Experience
 
-Moreover, Satria Adhi Pradana is deeply committed to Cyber Security, recognizing the paramount importance of safeguarding digital assets in an increasingly interconnected world. He employs cutting-edge security practices and methodologies to fortify systems against cyber threats, ensuring data integrity and confidentiality.
+### Technical Project Management
+As a seasoned Technical Project Manager, Satria excels in orchestrating complex projects from inception to completion. His meticulous approach ensures seamless execution and timely delivery, making him a reliable partner in any technological endeavor.
 
-Driven by a relentless pursuit of excellence, Satria Adhi Pradana is not just a technologist but a catalyst for innovation and transformation. His landing page serves as a gateway to explore his portfolio, insights, and contributions to the ever-evolving landscape of technology.
+### UI/UX Design
+Satria possesses a keen eye for detail and a user-centric mindset in UI/UX Design. He creates intuitive and visually captivating designs that engage users and enhance their overall experience. From wireframes to prototypes and usability testing, his work resonates with elegance and functionality.
 
+### Web Development
+In the realm of Web Development, Satria is an architect of digital solutions. He transforms ideas into robust, scalable web applications, leveraging a diverse range of technologies and frameworks to create tailor-made solutions that meet various business needs.
 
+### Cyber Security
+Understanding the critical importance of safeguarding digital assets, Satria is deeply committed to Cyber Security. He employs cutting-edge security practices and methodologies to protect systems against cyber threats, ensuring data integrity and confidentiality.
+
+### Virtual Assistant
+As a Virtual Assistant, Satria offers comprehensive support to streamline your operations and enhance productivity. From managing schedules and communications to handling administrative tasks and project coordination, he is dedicated to helping you focus on what matters most. His organizational skills and attention to detail ensure that your projects run smoothly and efficiently.
+
+## A Catalyst for Innovation
+Driven by a relentless pursuit of excellence, Satria Adhi Pradana is not just a technologist; he is a catalyst for innovation and transformation. Explore his portfolio, insights, and contributions to the dynamic landscape of technology through this landing page.
+---
 -
 ![Editing a markdown file](/images/editing-talk.png)
 
 
-For more info About Adhi
-------
+# Follow Me on Social Media
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/satriaadhipradana)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/adhisquarepants)
+[![Instagram](https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/darkosint)
+[![Medium](https://img.shields.io/badge/Medium-00AB6C?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@satriaadhipradana)
+[![TikTok](https://img.shields.io/badge/TikTok-69C9D0?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@satriaadhipradana)
 More info about Me.....
