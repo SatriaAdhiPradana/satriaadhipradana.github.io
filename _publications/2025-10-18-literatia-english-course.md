@@ -5,11 +5,18 @@ permalink: /publication/2025-10-18-literatia-english-course
 excerpt: 'This page folder is about Literatia English Course.'
 date: 2025-10-18
 venue: 'Literatia Journaling'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
+paperurl: 'satriaadhipradana.github.io/files
+/Literatia-Business-Plan.pdf'
 citation: 'Literatia, Wahyudi. (2025). &quot;Literatia Journal.&quot; <i>Journal 1</i>. 1(1).'
 ---
 This page folder is about Literatia English Course.
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+#Bussiness Plan
+[Download PDF here](satriaadhipradana.github.io/files
+/Literatia-Business-Plan.pdf)
+
+[Download Word here](files/literatiabusinessplan.docx)
+
+#Operational
 
 Recommended citation: Literatia, Wahyudi. (2025). &quot;Literatia Journal.&quot; <i>Journal 1</i>. 1(1).
