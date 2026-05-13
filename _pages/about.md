@@ -41,8 +41,9 @@ As a Virtual Assistant, He is offers comprehensive support to streamline your op
 # Follow Me on Social Media
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/satriaadhipradana)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/adhisquarepants)
-[![Instagram](https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/darkosint)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/DFIRgeek)
+[![Instagram](https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/satriaadhipradana_)
 [![Medium](https://img.shields.io/badge/Medium-00AB6C?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@satriaadhipradana)
-[![TikTok](https://img.shields.io/badge/TikTok-69C9D0?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@satriaadhipradana)
+
+
 
