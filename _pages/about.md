@@ -10,6 +10,7 @@ redirect_from:
 
 "I am a Newbie Coder"
 
+
 <!DOCTYPE html>
 <html lang="id">
 <head>
@@ -204,6 +205,7 @@ redirect_from:
     </script>
 </body>
 </html>
+
 
 
 ## Expertise and Experience
