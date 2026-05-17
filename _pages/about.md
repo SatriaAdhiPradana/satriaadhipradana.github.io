@@ -272,7 +272,8 @@ redirect_from:
 </body>
 </html>
 
-------
+
+
 
 ## Expertise and Experience
 
@@ -292,7 +293,47 @@ Understanding the critical importance of safeguarding digital assets, He is deep
 As a Virtual Assistant, He is offers comprehensive support to streamline your operations and enhance productivity. From managing schedules and communications to handling administrative tasks and project coordination, he is dedicated to helping you focus on what matters most. His organizational skills and attention to detail ensure that your projects run smoothly and efficiently.
 
 
-![Editing a markdown file](/images/editing-talk.png)
+        <!-- New Section: Image Viewer -->
+        <section class="mb-16 fade-in" style="animation-delay: 0.7s;">
+            <div class="mb-8">
+                <h2 class="text-2xl font-bold text-stone-800 mb-2">🖼️ Image Preview</h2>
+                <p class="text-stone-600">Review the attached image below.</p>
+            </div>
+
+            <!-- Image Container -->
+            <div class="w-full p-2 border border-stone-200 rounded-xl bg-white shadow-sm overflow-hidden group">
+                <!-- Wrapper for the image with hover effect -->
+                <div class="relative overflow-hidden rounded-lg bg-stone-100 flex justify-center items-center">
+                    <img 
+                        src="/images/editing-talk.png" 
+                        alt="Editing a markdown file" 
+                        onerror="this.onerror=null; this.src='https://placehold.co/800x450/e7e5e4/57534e?text=Image+Not+Found+(editing-talk.png)';"
+                        class="w-full h-auto object-contain transition-transform duration-500 group-hover:scale-105"
+                    >
+                    <!-- Overlay text on hover -->
+                    <div class="absolute inset-0 bg-stone-900/40 flex items-center justify-center opacity-0 group-hover:opacity-100 transition-opacity duration-300">
+                        <span class="text-white font-medium px-4 py-2 bg-stone-900/60 rounded-lg backdrop-blur-sm shadow-lg">
+                            Editing a markdown file
+                        </span>
+                    </div>
+                </div>
+                
+                <!-- Image Footer / Metadata -->
+                <div class="px-3 py-3 flex items-center justify-between mt-1">
+                    <span class="text-sm font-medium text-stone-500 flex items-center gap-2">
+                        <svg xmlns="http://www.w3.org/2000/svg" class="h-4 w-4" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 16l4.586-4.586a2 2 0 012.828 0L16 16m-2-2l1.586-1.586a2 2 0 012.828 0L20 14m-6-6h.01M6 20h12a2 2 0 002-2V6a2 2 0 00-2-2H6a2 2 0 00-2 2v12a2 2 0 002 2z" />
+                        </svg>
+                        /images/editing-talk.png
+                    </span>
+                    <a href="/images/editing-talk.png" target="_blank" class="text-xs px-3 py-1 bg-stone-100 hover:bg-stone-200 text-stone-700 font-semibold rounded-md transition-colors">
+                        View Original
+                    </a>
+                </div>
+            </div>
+        </section>
+
+    </div>
 
 
 # Follow Me on Social Media
