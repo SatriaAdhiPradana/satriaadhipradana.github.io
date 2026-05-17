@@ -182,6 +182,39 @@ redirect_from:
     </div>
 
 
+        <!-- New Section: Document Viewer -->
+        <section class="mb-16 fade-in" style="animation-delay: 0.5s;">
+            <div class="mb-8 flex justify-between items-end">
+                <div>
+                    <h2 class="text-2xl font-bold text-stone-800 mb-2">📄 Document Viewer</h2>
+                    <p class="text-stone-600">Review the attached PDF document below.</p>
+                </div>
+                <!-- Tombol Download/Open PDF -->
+                <a href="https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf" target="_blank" class="px-4 py-2 bg-teal-600 hover:bg-teal-700 text-white text-sm font-semibold rounded-lg transition-colors shadow-sm flex items-center gap-2">
+                    <svg xmlns="http://www.w3.org/2000/svg" class="h-4 w-4" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 16v1a3 3 0 003 3h10a3 3 0 003-3v-1m-4-4l-4 4m0 0l-4-4m4 4V4" />
+                    </svg>
+                    Open PDF
+                </a>
+            </div>
+
+            <!-- PDF Container -->
+            <div class="w-full h-[600px] border border-stone-200 rounded-xl bg-white shadow-sm overflow-hidden flex flex-col">
+                <div class="bg-stone-50 border-b border-stone-200 px-4 py-3 flex items-center">
+                    <span class="text-sm font-medium text-stone-600">sample-document.pdf</span>
+                </div>
+                
+                <!-- Menampilkan PDF menggunakan iframe -->
+                <iframe 
+                    src="https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf" 
+                    class="w-full flex-1 border-none"
+                    title="PDF Document Viewer"
+                    allowfullscreen>
+                </iframe>
+            </div>
+        </section>
+
+    </div>
 
         <footer class="bg-stone-800 text-stone-300 py-10 px-6 rounded-2xl text-center fade-in" style="animation-delay: 0.4s;">
             <h3 class="text-xl font-bold text-white mb-6">Lets Connect</h3>
