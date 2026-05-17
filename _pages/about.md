@@ -293,6 +293,9 @@ Understanding the critical importance of safeguarding digital assets, He is deep
 As a Virtual Assistant, He is offers comprehensive support to streamline your operations and enhance productivity. From managing schedules and communications to handling administrative tasks and project coordination, he is dedicated to helping you focus on what matters most. His organizational skills and attention to detail ensure that your projects run smoothly and efficiently.
 
 
+![Editing a markdown file](/images/editing-talk.png)
+
+
 
 # Follow Me on Social Media
 
