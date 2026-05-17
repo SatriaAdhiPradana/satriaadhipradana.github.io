@@ -149,6 +149,18 @@ redirect_from:
                 </div>
             </div>
         </section>
+            <div class="space-y-3">
+                <div class="border border-stone-200 rounded-xl bg-white overflow-hidden">
+                    <button class="w-full px-6 py-4 text-left font-semibold text-stone-800 bg-white hover:bg-stone-50 flex justify-between items-center focus:outline-none" onclick="toggleAccordion('tip1')">
+                        <span>1. Cyber Security Management</span>
+                        <span id="icon-tip1" class="text-teal-600 transition-transform duration-200 text-xl">➕</span>
+                    </button>
+                    <div id="content-tip1" class="px-6 py-0 max-h-0 overflow-hidden transition-all duration-300 bg-stone-50 text-stone-600">
+                        <p class="py-4 border-t border-stone-200"> Managing and organizing security your platform professionally to ensure strong firewall.</p>
+                    </div>
+                </div>
+            </div>
+        </section>
 
         <footer class="bg-stone-800 text-stone-300 py-10 px-6 rounded-2xl text-center fade-in" style="animation-delay: 0.4s;">
             <h3 class="text-xl font-bold text-white mb-6">Lets Connect</h3>
