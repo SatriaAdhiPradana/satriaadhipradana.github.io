@@ -226,7 +226,7 @@ redirect_from:
 
     <script>
         const portfolioData = {
-            opsi1: `<div class="text-center fade-in w-full"><h2>SATRIA ADHI PRADANA</h2><p>Virtual Assistant Profesional</p></div>`,
+            opsi1: `<div class="text-center fade-in w-full"><h2>SATRIA ADHI PRADANA</h2><p>Virtual Assistant Profesional, Helping you manage administrative and operational tasks efficiently, so you can focus on growing your business and achieving your goals. In addition to Virtual Assistant services, I also provide support in Cyber Security awareness, digital safety practices, basic security analysis, and technology-related assistance to help individuals and businesses maintain secure and well-organized digital operations in today’s connected world.</p></div>`,
             opsi2: `<div class="text-left fade-in w-full"><h2>Hello, Im Satria.</h2><p>I am your reliable Virtual Assistant.</p></div>`,
             opsi3: `<div class="text-center fade-in w-full"><h2>Boost Your Productivity.</h2></div>`
         };
