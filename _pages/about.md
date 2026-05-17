@@ -151,6 +151,52 @@ redirect_from:
         </section>
 
 
+            <div class="space-y-3">
+                <!-- 1. Email Management -->
+                <div class="border border-stone-200 rounded-xl bg-white overflow-hidden shadow-sm">
+                    <button class="w-full px-6 py-4 text-left font-semibold text-stone-800 bg-white hover:bg-stone-50 flex justify-between items-center focus:outline-none transition-colors" onclick="toggleAccordion('tip1')">
+                        <span>1. Email Management</span>
+                        <span id="icon-tip1" class="text-teal-600 transition-transform duration-300 text-xl">➕</span>
+                    </button>
+                    <div id="content-tip1" class="px-6 py-0 max-h-0 overflow-hidden transition-all duration-300 ease-in-out bg-stone-50 text-stone-600">
+                        <p class="py-4 border-t border-stone-200">
+                            Managing and organizing emails professionally to ensure smooth communication, prioritizing urgent matters, and maintaining inbox zero where possible.
+                        </p>
+                    </div>
+                </div>
+
+                <!-- 2. Data Centre Management -->
+                <div class="border border-stone-200 rounded-xl bg-white overflow-hidden shadow-sm">
+                    <button class="w-full px-6 py-4 text-left font-semibold text-stone-800 bg-white hover:bg-stone-50 flex justify-between items-center focus:outline-none transition-colors" onclick="toggleAccordion('tip2')">
+                        <span>2. Data Centre Management</span>
+                        <span id="icon-tip2" class="text-teal-600 transition-transform duration-300 text-xl">➕</span>
+                    </button>
+                    <div id="content-tip2" class="px-6 py-0 max-h-0 overflow-hidden transition-all duration-300 ease-in-out bg-stone-50 text-stone-600">
+                        <p class="py-4 border-t border-stone-200">
+                            Overseeing the daily operations, security, and maintenance of server infrastructure. Ensuring high availability, disaster recovery protocols, and optimal environmental controls.
+                        </p>
+                    </div>
+                </div>
+
+                <!-- 3. Project Management -->
+                <div class="border border-stone-200 rounded-xl bg-white overflow-hidden shadow-sm">
+                    <button class="w-full px-6 py-4 text-left font-semibold text-stone-800 bg-white hover:bg-stone-50 flex justify-between items-center focus:outline-none transition-colors" onclick="toggleAccordion('tip3')">
+                        <span>3. Project Management</span>
+                        <span id="icon-tip3" class="text-teal-600 transition-transform duration-300 text-xl">➕</span>
+                    </button>
+                    <div id="content-tip3" class="px-6 py-0 max-h-0 overflow-hidden transition-all duration-300 ease-in-out bg-stone-50 text-stone-600">
+                        <p class="py-4 border-t border-stone-200">
+                            Planning, executing, and closing projects effectively. Coordinating cross-functional teams, managing timelines, tracking budgets, and ensuring successful delivery of project milestones.
+                        </p>
+                    </div>
+                </div>
+
+            </div>
+        </section>
+    </div>
+
+
+
         <footer class="bg-stone-800 text-stone-300 py-10 px-6 rounded-2xl text-center fade-in" style="animation-delay: 0.4s;">
             <h3 class="text-xl font-bold text-white mb-6">Lets Connect</h3>
             <div class="mt-8 pt-6 border-t border-stone-700 text-sm text-stone-500">
