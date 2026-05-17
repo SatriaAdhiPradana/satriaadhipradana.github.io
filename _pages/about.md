@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 "I am a Newbie Coder"
-
+-------
 
 <!DOCTYPE html>
 <html lang="id">
@@ -138,20 +138,6 @@ redirect_from:
                 <h2 class="text-2xl font-bold text-stone-800 mb-2">💡 Main Responsibilities</h2>
             </div>
             <div class="space-y-3">
-                <div class="border border-stone-200 rounded-xl bg-white overflow-hidden">
-                    <button class="w-full px-6 py-4 text-left font-semibold text-stone-800 bg-white hover:bg-stone-50 flex justify-between items-center focus:outline-none" onclick="toggleAccordion('tip1')">
-                        <span>1. Email Management</span>
-                        <span id="icon-tip1" class="text-teal-600 transition-transform duration-200 text-xl">➕</span>
-                    </button>
-                    <div id="content-tip1" class="px-6 py-0 max-h-0 overflow-hidden transition-all duration-300 bg-stone-50 text-stone-600">
-                        <p class="py-4 border-t border-stone-200"> Managing and organizing emails professionally to ensure smooth communication.</p>
-                    </div>
-                </div>
-            </div>
-        </section>
-
-
-            <div class="space-y-3">
                 <!-- 1. Email Management -->
                 <div class="border border-stone-200 rounded-xl bg-white overflow-hidden shadow-sm">
                     <button class="w-full px-6 py-4 text-left font-semibold text-stone-800 bg-white hover:bg-stone-50 flex justify-between items-center focus:outline-none transition-colors" onclick="toggleAccordion('tip1')">
@@ -253,7 +239,7 @@ redirect_from:
 </body>
 </html>
 
-
+------
 
 ## Expertise and Experience
 
