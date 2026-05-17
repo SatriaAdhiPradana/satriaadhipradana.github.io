@@ -307,7 +307,7 @@ As a Virtual Assistant, He is offers comprehensive support to streamline your op
                     <img 
                         src="/images/editing-talk.png" 
                         alt="Editing a markdown file" 
-                        onerror="this.onerror=null; this.src='https://placehold.co/800x450/e7e5e4/57534e?text=Image+Not+Found+(editing-talk.png)';"
+                        onerror="this.onerror=null; this.src='/images/editing-talk.png';"
                         class="w-full h-auto object-contain transition-transform duration-500 group-hover:scale-105"
                     >
                     <!-- Overlay text on hover -->
